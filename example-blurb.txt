@@ -1,0 +1,7 @@
+On this map, areas are approximately scaled in size according to their populations.  Each small hexagon represents a Middle-Layer Super Output Area (MSOA) with a population of around 7,000-10,000 people.
+
+Areas are grouped by ceremonial counties, conurbations and other recognisable sub-national areas. These groups include unitary authorities (e.g. Nottingham UA in the Notts group) and don't all reflect current local gov structures. 
+
+Dark lines between adjacent areas represent local authority boundaries. Extra labels are provided for large towns & cities to help you locate particular cities and towns (e.g. 'Lut.' = Luton).
+
+Grey areas between local authority groups don't represent data and serve only as a background.
