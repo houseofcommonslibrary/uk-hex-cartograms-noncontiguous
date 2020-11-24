@@ -24,7 +24,7 @@ Two examples of visualisations using the templates are below. You can see some m
 [Background UK outline shape](#8)  
 [Notes on the MSOA version, and some differences between the versions](#9)  
 [How was this made?](#10)  
-[Known issues](#11)
+[Known issues](#11)  
 **[Download](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
 
 
