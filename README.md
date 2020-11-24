@@ -7,11 +7,13 @@ This folder contains four geopackage files with geographical templates for **non
 * Upper-tier local authorities in the UK (2018, 2019 and 2020 boundaries)
 * Westminster Parliamentary Constituencies in the UK (current boundaries at the time of publication).
 
+**[Download the files here.](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
+
 Two examples of visualisations using the templates are below. You can see some more examples of COVID-19 data visualisations using the formats [here](https://drive.google.com/file/d/1m5llZrxGsBYdaOJdXSdSKpmylFCu16aX/view), [here](https://drive.google.com/file/d/1Rm9BgAIc452nkRrUAt01cji61OlneJtk/view) and [here](https://drive.google.com/file/d/1tjm5C29oZWXTzcsoaZt8-hYdobTAaJ4d/view). This page explains the format in some detail.
 
 ![UK hex cartograms non-contiguous examples, MSOA and local authority](images/dataexamples.png)
 
-**[Download](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
+
 [How to use](#1)  
 [What is a non-contiguous hexagon-based cartogram?](#2)  
 [Why use a non-contiguous cartogram and what about other options?](#3)  
@@ -23,7 +25,7 @@ Two examples of visualisations using the templates are below. You can see some m
 [Notes on the MSOA version, and some differences between the versions](#9)  
 [How was this made?](#10)  
 [Known issues](#11)
-
+**[Download](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
 
 
 ## How to use  <a name="1"></a>
@@ -70,7 +72,7 @@ Using non-contiguous groups also makes it possible to arrange the overall shape 
 
 When using a non-contiguous cartogram, the obvious trade-off is that contiguity between areas that occupy different counties/subnational groups is lost. For instance, the cartogram doesn’t allow you to easily see how neighbouring parts of Cumbria and Northumberland compare, and Leicestershire and Lincolnshire are not adjacent on the cartogram despite sharing a border. 
 
-In addition, the gaps between groups in a non-contiguous cartogram are sometimes misinterpreted as being part of the data, or even as missing data. This format should probably be regarded as an “advanced” visualisation and requires more explanation and intellectual investment than geographical maps and perhaps also more than contiguous cartograms. It will usually be necessary to provide a written explanation or blurb alongside the visualisation to help readers interpret it. See an example [here](https://drive.google.com/file/d/1m5llZrxGsBYdaOJdXSdSKpmylFCu16aX/view) – a version of this blurb is also included in the project folder for you to adapt. Using the cartogram [alongside an inset geographical map](https://twitter.com/carlbaker/status/1327190720088739840) is another way to help with these issues as it provides a familiar reference point for comparison.
+In addition, the gaps between groups in a non-contiguous cartogram are sometimes misinterpreted as being part of the data, or even as missing data. This format should probably be regarded as an “advanced” visualisation and requires more explanation and intellectual investment than geographical maps and perhaps also more than contiguous cartograms. It will usually be necessary to provide a written explanation or blurb alongside the visualisation to help readers interpret it. See an example [here](https://drive.google.com/file/d/1m5llZrxGsBYdaOJdXSdSKpmylFCu16aX/view) – a version of this blurb is also [included in the project folder](example-blurb.txt) for you to adapt. Using the cartogram [alongside an inset geographical map](https://twitter.com/carlbaker/status/1327190720088739840) is another way to help with these issues as it provides a familiar reference point for comparison.
 
 [Contiguous hex-based cartograms](https://richardbrath.files.wordpress.com/2015/10/ukequalareatilemaps.png) are commonly-used in UK election analysis, providing a clear at-a-glance overview of election results by using one hex for each constituency. They are also sometimes used for [local authorities](https://olihawkins.com/2018/02/1), but these come with a major disadvantage as cartograms: because local authorities differ hugely in their populations (e.g. Birmingham has 1.1 million people and Rutland 40,000), some areas are still afforded a much larger or smaller visual space than their population justifies. So one key aim of a cartogram is not met, though the visualisation may still be worthwhile in other ways.
 
