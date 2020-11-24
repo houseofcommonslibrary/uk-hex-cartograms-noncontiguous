@@ -13,7 +13,7 @@ Two examples of visualisations using the templates are below. You can see some m
 
 ![UK hex cartograms non-contiguous examples, MSOA and local authority](images/dataexamples.png)
 
-
+##### Contents  
 [How to use](#1)  
 [What is a non-contiguous hexagon-based cartogram?](#2)  
 [Why use a non-contiguous cartogram and what about other options?](#3)  
@@ -30,7 +30,7 @@ Two examples of visualisations using the templates are below. You can see some m
 
 ## How to use  <a name="1"></a>
 
-When you load any of the geopackage files into a GIS program like QGIS, several layers will appear. The project CRS should be set to **EPSG:27700** (British National Grid) in order for the layers to display correctly. Each layer is pre-styled but you can adjust styles as you wish. To visualise data you will need to join data to the relevant cartogram layer (e.g. MSOA, LTLA 2018) using the normal method.
+When you load any of the geopackage files into a GIS program like QGIS, several layers will appear. The project CRS should be set to **EPSG:27700** (British National Grid) in order for the layers to display correctly. Each layer is pre-styled but you can adjust styles as you wish. To visualise data you will need to join data to the relevant cartogram layer (e.g. MSOA, LTLA 2018) using the [normal method](https://www.qgistutorials.com/en/docs/3/performing_table_joins.html).
 
 This data is licensed under the **[Open Parliament Licence](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/)**, which allows you to use the data in your products as long as you acknowledge the source of the information and, where possible, provide a link to the licence (see the link above or the licence file for full details).
 
