@@ -11,7 +11,7 @@ Two examples of visualisations using the templates are below. You can see some m
 
 ![UK hex cartograms non-contiguous examples, MSOA and local authority](images/dataexamples.png)
 
-**Download**  
+**[Download](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
 [How to use](#1)  
 [What is a non-contiguous hexagon-based cartogram?](#2)  
 [Why use a non-contiguous cartogram and what about other options?](#3)  
@@ -150,7 +150,7 @@ The templates also include labels inside shapes to denote selected major cities 
 Unlike the group labels, these are not an essential element of the visualisation, and other approaches could be taken. Adding these labels is clear a trade-off because they can obscure some data (especially on the MSOA version).
 
 *City and town labels on the MSOA template*
-![City and town labels on the MSOA template](images/Citylabels1.png)
+![City and town labels on the MSOA template](images/citylabels1.png)
 
 The constituency map takes a slightly different approach to city/town labels. In the local authority and MSOA versions, a city/town label relates to a local authority boundary that is visible on the map. But in the constituency version, the city of Birmingham (for example) is composed of a number of constituencies, so simply adding a label may not adequately indicate which constituencies it refers to because the outer boundary of Birmingham is not itself visible.
 
