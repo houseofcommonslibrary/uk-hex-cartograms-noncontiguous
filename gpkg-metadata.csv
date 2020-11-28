@@ -1,0 +1,18 @@
+Field,Description
+X,X coordinate for MSOA hex centroid (EPSG:27700)
+Y,Y coordinate for MSOA hex centroid (EPSG:27700)
+Lacode,ONS Local authority code (lower tier)
+Laname,Local authority name (lower tier)
+LA-label,Local authority label text (for overlay labels in MSOA and local authority verisons)
+Group,Ceremonial county or other sub-national group (see readme.md)
+Group-labe,Text for labels that appear outside the groups
+RegionNation,English region or devolved nation that the area is part of
+msoa11cd,ONS MSOA code (2011 census)
+msoa11nm,ONS MSOA name (2011 census)
+cuacode,County and unitary authority code (upper tier local authority/UTLA)
+cua-name,County and unitary authority name (upper tier local authority/UTLA)
+MSOA-name-HCL,House of Commons Library MSOA Name (https://visual.parliament.uk/msoanames/)
+LabelPosit,Field for determining the position of group labels (left or right of the point)
+CityLabel,City or town label text (for overlay labels in constituency version)
+pcon-code,ONS westminster parliamentary constituency code
+pcon-name,Westminster parliamentary constituency name
