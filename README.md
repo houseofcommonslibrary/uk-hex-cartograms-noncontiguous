@@ -3,8 +3,8 @@
 This folder contains four geopackage files with geographical templates for **non-contiguous (‘exploded’) hexagon-based cartograms of the UK**. The data files are available for:
 
 * MSOAs (Middle-Layer Super Output Areas) in England and Wales (2011 census)
-* Lower-tier local authorities in the UK (2018, 2019 and 2020 boundaries)
-* Upper-tier local authorities in the UK (2018, 2019 and 2020 boundaries)
+* Lower-tier local authorities in the UK (2018, 2019, 2020 and 2021 boundaries)
+* Upper-tier local authorities in the UK (2018, 2019, 2020 and 2021 boundaries)
 * Westminster Parliamentary Constituencies in the UK (current boundaries at the time of publication).
 
 **[Download the files here.](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
