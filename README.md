@@ -25,8 +25,7 @@ Two examples of visualisations using the templates are below. You can see some m
 [Labels](#7)  
 [Background UK outline shape](#8)  
 [Notes on the MSOA version, and some differences between the versions](#9)  
-[How was this made?](#10)  
-[Known issues](#11)  
+[How was this made?](#10)   
 **[Download](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
 
 
@@ -204,10 +203,4 @@ However, in the other cartograms - especially the upper-tier local authority ver
 ## How was this made?  <a name="10"></a>
 
 The MSOA cartogram was made by aligning [MSOA population-weighted centroids](https://geoportal.statistics.gov.uk/datasets/b0a6d8a3dc5d4718b3fd62c548d60f81_0) to a hex grid in QGIS. This involved manual work to get an arrangement that was both geographically acceptable and aesthetically acceptable. The other versions were produced by iterating on the MSOA version - by adding and removing hexagons as required to produce the correct population equivalent for each area, and then re-arranging the shapes.
-
-<a name="11"></a>
-## Known issues
-
-While the MSOA cartogram layer includes coordinates in the ‘X’ and ‘Y’ data fields, these are currently not in an integer format that could be easily reused outside of GIS software. In a future version we will adapt these to a standard hex coordinate format.
-
 
