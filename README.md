@@ -1,6 +1,6 @@
 # uk-hex-cartograms-noncontiguous
 
-**Update, November 2022: this project now includes a new cartogram for 2021 census MSOAs, available in the [geopackages folder](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/tree/main/geopackages)**
+**Update, November 2022: this project now includes a new cartogram for 2021 census MSOAs, available in the [geopackages folder](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/tree/main/geopackages).** Currently this is available only in gpkg format.
 
 This folder contains four geopackage files with geographical templates for **non-contiguous (‘exploded’) hexagon-based cartograms of the UK**. The data files are available for:
 
