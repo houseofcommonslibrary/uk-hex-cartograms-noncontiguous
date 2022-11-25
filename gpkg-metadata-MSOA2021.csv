@@ -1,0 +1,14 @@
+﻿fid,feature id
+X,X coordinate for MSOA hex centroid (EPSG:27700)
+Y,Y coordinate for MSOA hex centroid (EPSG:27700)
+msoa21cd,ONS MSOA code (2021 census)
+msoa21nm,ONS MSOA name (2021 census)
+msoa21hcln,"House of Commons Library MSOA name (2021 census, v2.2)"
+lad22cd,ONS local authority district code
+lad22nm,ONS local authority district name
+utla22cd,ONS upper tier local authority code
+utla22nm,ONS upper tier local authority name
+group,Ceremonial county or other sub-national group (see readme.md)
+region,English region or devolved nation that the area is part of
+long_la_la,Local authority outline label (long - selected LAs only)
+short_la_l,Local authority label (three character - all LAs)

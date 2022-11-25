@@ -1,8 +1,10 @@
 # uk-hex-cartograms-noncontiguous
 
+**Update, November 2022: this project now includes a new cartogram for 2021 census MSOAs, available in the [geopackages folder](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/tree/main/geopackages)**
+
 This folder contains four geopackage files with geographical templates for **non-contiguous (‘exploded’) hexagon-based cartograms of the UK**. The data files are available for:
 
-* MSOAs (Middle-Layer Super Output Areas) in England and Wales (2011 census)
+* MSOAs (Middle-Layer Super Output Areas) in England and Wales (2011 census and 2021 census)
 * Lower-tier local authorities in the UK (2018, 2019, 2020 and 2021 boundaries)
 * Upper-tier local authorities in the UK (2018, 2019, 2020 and 2021 boundaries)
 * Westminster Parliamentary Constituencies in the UK (current boundaries at the time of publication).
@@ -11,7 +13,7 @@ This folder contains four geopackage files with geographical templates for **non
 
 For MSOAs there is also a [hexjson version](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/blob/main/hexjson/msoa_hex_coords.hexjson), which you can use with (e.g.) [d3-hexjson](https://github.com/olihawkins/d3-hexjson). For some other hexjson tools you may need to alter the layout variable (see the discussion [here](https://github.com/olihawkins/d3-hexjson/issues/7).
 
-Two examples of visualisations using the templates are below. You can see some more examples of COVID-19 data visualisations using the formats [here](https://drive.google.com/file/d/1m5llZrxGsBYdaOJdXSdSKpmylFCu16aX/view), [here](https://drive.google.com/file/d/1Rm9BgAIc452nkRrUAt01cji61OlneJtk/view) and [here](https://drive.google.com/file/d/1tjm5C29oZWXTzcsoaZt8-hYdobTAaJ4d/view). This page explains the format in some detail.
+Two examples of visualisations using the templates are below. You can see some more examples of COVID-19 data visualisations using the formats [here](https://drive.google.com/file/d/1m5llZrxGsBYdaOJdXSdSKpmylFCu16aX/view) and [here](https://drive.google.com/file/d/1rUY3FKEy4ZbvhpFYxh9Yoih3yRH6TEiM/view?usp=share_link)  This page explains the format in some detail.
 
 ![UK hex cartograms non-contiguous examples, MSOA and local authority](images/dataexamples.png)
 
