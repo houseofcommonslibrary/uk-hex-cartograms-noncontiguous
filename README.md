@@ -1,15 +1,16 @@
 # uk-hex-cartograms-noncontiguous
 
+**Update, March 2023: new geopackages accounting for 2023 local authority changes have been added.**
 **Update, November 2022: this project now includes a new cartogram for 2021 census MSOAs, available in the [geopackages folder](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/tree/main/geopackages).** Currently this is available only in gpkg format.
 
 This folder contains four geopackage files with geographical templates for **non-contiguous (‘exploded’) hexagon-based cartograms of the UK**. The data files are available for:
 
 * MSOAs (Middle-Layer Super Output Areas) in England and Wales (2011 census and 2021 census)
-* Lower-tier local authorities in the UK (2018, 2019, 2020 and 2021 boundaries)
-* Upper-tier local authorities in the UK (2018, 2019, 2020 and 2021 boundaries)
+* Lower-tier local authorities in the UK (2018, 2019, 2020, 2021 and 2023 boundaries)
+* Upper-tier local authorities in the UK (2018, 2019, 2020, 2021 and 2023 boundaries)
 * Westminster Parliamentary Constituencies in the UK (current boundaries at the time of publication).
 
-**[Download the files here.](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)**  
+**[Download the files here.](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/archive/main.zip)** Note that the 2023 local authority editions are in separate geopackages from the previous boundaries.
 
 For MSOAs there is also a [hexjson version](https://github.com/houseofcommonslibrary/uk-hex-cartograms-noncontiguous/blob/main/hexjson/msoa_hex_coords.hexjson), which you can use with (e.g.) [d3-hexjson](https://github.com/olihawkins/d3-hexjson). For some other hexjson tools you may need to alter the layout variable (see the discussion [here](https://github.com/olihawkins/d3-hexjson/issues/7).
 
